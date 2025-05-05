@@ -1,4 +1,4 @@
-# HybridAGI: The Programmable Neuro-Symbolic AGI
+# HybridAGI: The Programmable Neuro-Symbolics AGI
 ### For people who want AI to behave as expected
 <div align="center">
 
